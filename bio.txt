@@ -1,2 +1,3 @@
-nama : endjiansyah
-alamat : ujungbatu Jepara
+nama            : endjiansyah
+alamat          : ujungbatu, Jepara
+tanggal lahir   : 15 Juli 2000
